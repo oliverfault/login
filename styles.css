@@ -1,0 +1,31 @@
+body {
+    background-color: #191d22;
+  }
+  
+  .card {
+    border-radius: 10px;
+  }
+  
+  h2 {
+    color: #8459b4;
+  }
+  
+  .custom-color {
+    background-color: #8459b4;
+    border-color: #8459b4;
+  }
+  
+  .custom-color:hover {
+    background-color: #6f4aa0;
+    border-color: #6f4aa0;
+  }
+  
+  .custom-link {
+    color: #8459b4;
+  }
+  
+  .custom-link:hover {
+    text-decoration: underline;
+    color: #6f4aa0;
+  }
+  
